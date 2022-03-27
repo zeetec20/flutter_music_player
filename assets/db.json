@@ -1,0 +1,36 @@
+{
+    "popular_artist": [
+        {
+            "name": "Kunto Aji",
+            "url": "https://music.apple.com/us/artist/kunto-aji/636803660"
+        },
+        {
+            "name": "Hindia",
+            "url": "https://music.apple.com/us/artist/hindia/1440146558"
+        },
+        {
+            "name": "Barasuara",
+            "url": "https://music.apple.com/us/artist/barasuara/1039595097"
+        },
+        {
+            "name": "Bring Me The Horizon",
+            "url": "https://music.apple.com/us/artist/bring-me-the-horizon/121043936"
+        },
+        {
+            "name": "Shawn Mendes",
+            "url": "https://music.apple.com/us/artist/shawn-mendes/890403665"
+        },
+        {
+            "name": "Tulus",
+            "url": "https://music.apple.com/us/artist/tulus/1001681665"
+        },
+        {
+            "name": "Ardhito Pramono",
+            "url": "https://music.apple.com/us/artist/ardhito-pramono/1219784065"
+        },
+        {
+            "name": "Rich Brian",
+            "url": "https://music.apple.com/us/artist/rich-brian/1023207266"
+        }
+    ]
+}
