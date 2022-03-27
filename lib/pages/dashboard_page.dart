@@ -180,19 +180,16 @@ class DashboardPage extends StatelessWidget {
                         Column(
                           crossAxisAlignment: CrossAxisAlignment.start,
                           children: [
-                            Column(
-                              crossAxisAlignment: CrossAxisAlignment.end,
-                              children: [
-                                Text(
-                                  'Listen your favorite music',
-                                  textAlign: TextAlign.end,
-                                  style: TextStyle(
-                                      color: ColorTheme.color3,
-                                      fontSize: 28,
-                                      fontWeight: FontWeight.w900),
-                                ),
-                              ],
-                            ),
+                            Container(
+                              margin: EdgeInsets.only(top: 8, right: 15),
+                                child: Text(
+                              'Listen your favorite music',
+                              textAlign: TextAlign.end,
+                              style: TextStyle(
+                                  color: ColorTheme.color3,
+                                  fontSize: 26,
+                                  fontWeight: FontWeight.w900),
+                            )),
                             Container(
                               margin: EdgeInsets.only(top: 13),
                               child: TextButton(
