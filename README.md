@@ -30,6 +30,8 @@ This repository is source code of music player, build with languade dart on fram
 - Resume music
 - Previous music
 - Next music
+- Slide music player to stop music
+- Slide saved music to remove it
 
 ## Run project
 - Clone respository
